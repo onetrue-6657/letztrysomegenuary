@@ -186,7 +186,13 @@ The complete video is on Youtube, the link is https://youtu.be/cphuiKveoK8. Trus
 
 Subdivision (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+The general idea is to subdivide rectangles (especially squares) by half "infinitely". To make this more interesting, I added a third dimension to make this a 3-D subdivision.
+
+![Genuary12](/pics/Jan12.gif)
+
+This resulting cube reminds me of a problem I have seen in ICPC NAQ 2024. (Problem J Menger Sponge) Both are dividing rectangles on different surfaces of a cube.
+
+Also, this is my first to try creating some 3-D geometries using p5.js, and it seems to be a nice try I have to say.
 
 ## \#Genuary2025 Day 13
 
