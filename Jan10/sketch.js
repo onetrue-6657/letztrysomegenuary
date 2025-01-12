@@ -4,8 +4,8 @@ function setup() {
 
 function draw() {
   const zero = TAU - TAU;
-  const TAU3 = TAU * TAU * TAU;
-  const TAU4 = TAU * TAU * TAU * TAU;
+  const TAUT = TAU * TAU * TAU;
+  const TAUF = TAU * TAU * TAU * TAU;
 
   background('black');
 
@@ -16,21 +16,21 @@ function draw() {
   drawingContext.shadowBlur = TAU * sqrt(TAU) * sqrt(TAU) * sqrt(TAU);
   drawingContext.shadowColor = color('white');
   for (let i = zero; i < TAU - TAU / TAU; i++) {
-    circle(TAU3, TAU3, TAU4);
+    circle(TAUT, TAUT, TAUF);
 
     circle(ceil(TAU) * ceil(TAU) * sqrt(TAU) * TAU,
-      TAU * ceil(TAU) * ceil(TAU) * sqrt(TAU), TAU3 * sqrt(TAU));
+      TAU * ceil(TAU) * ceil(TAU) * sqrt(TAU), TAUT * sqrt(TAU));
     
     circle(sqrt(TAU) * ceil(TAU) * ceil(TAU) * sqrt(TAU) + TAU * TAU,
-      ceil(TAU) * ceil(TAU) * sqrt(TAU) * ceil(TAU), TAU3 * sqrt(TAU) * log(TAU));
+      ceil(TAU) * ceil(TAU) * sqrt(TAU) * ceil(TAU), TAUT * sqrt(TAU) * log(TAU));
     
-    circle(TAU3 * sqrt(TAU) * log(TAU),
-      TAU3 * sqrt(TAU) + TAU3, TAU3 * ceil(TAU));
+    circle(TAUT * sqrt(TAU) * log(TAU),
+      TAUT * sqrt(TAU) + TAUT, TAUT * ceil(TAU));
   }
 
-  drawingContext.shadowBlur = TAU4; // TAU * TAU * TAU * sqrt(TAU)
-  for (let i = zero; i < TAU3 * sqrt(TAU); i++) {
-    let x = random(TAU4);
+  drawingContext.shadowBlur = TAUF; // TAU * TAU * TAU * sqrt(TAU)
+  for (let i = zero; i < TAUT * sqrt(TAU); i++) {
+    let x = random(TAUF);
     let y = random(TAU * TAU * TAU * TAU);
     let r = random(TAU, TAU * TAU);
     let w = random(TAU / TAU, sqrt(TAU) * sqrt(TAU))
@@ -50,10 +50,10 @@ function draw() {
   textSize(size);
   
   for (let i = zero; i < TAU - TAU / TAU; i++) {
-    text('TAU = ', TAU3 * sqrt(TAU) + size * sqrt(TAU),
-      TAU3 * sqrt(TAU * sqrt(TAU)) + TAU3 + size * sqrt(TAU));
-    text(nf(TAU, TAU / TAU, ceil(TAU) + TAU / TAU) + "...", TAU3 * sqrt(TAU) + size * sqrt(TAU),
-      TAU3 * sqrt(TAU * sqrt(TAU)) + TAU3 + size + size * sqrt(TAU));
+    text('TAU = ', TAUT * sqrt(TAU) + size * sqrt(TAU),
+      TAUT * sqrt(TAU * sqrt(TAU)) + TAUT + size * sqrt(TAU));
+    text(nf(TAU, TAU / TAU, ceil(TAU) + TAU / TAU) + "...", TAUT * sqrt(TAU) + size * sqrt(TAU),
+      TAUT * sqrt(TAU * sqrt(TAU)) + TAUT + size + size * sqrt(TAU));
   }
 
   size = floor(TAU) * floor(TAU);
@@ -66,14 +66,14 @@ function draw() {
   }
 
   textFont("Verdana");
-  textSize(TAU3);
-  text('T', TAU3 * sqrt(TAU) * log(TAU) + TAU * TAU * sqrt(TAU),
-    TAU3 * sqrt(TAU));
-  text('A', TAU3 * sqrt(TAU) * log(TAU) + TAU * TAU * sqrt(TAU),
-    TAU3 * sqrt(TAU) + TAU3 * ((TAU + TAU + TAU + TAU + TAU) / (TAU + TAU + TAU + TAU)));
-  text('U', TAU3 * sqrt(TAU) * log(TAU) + TAU * TAU * sqrt(TAU),
-    TAU3 * sqrt(TAU) + TAU3 * ((TAU + TAU + TAU + TAU + TAU) / (TAU + TAU + TAU + TAU))
-    + TAU3 * ((TAU + TAU + TAU + TAU + TAU) / (TAU + TAU + TAU + TAU)));
+  textSize(TAUT);
+  text('T', TAUT * sqrt(TAU) * log(TAU) + TAU * TAU * sqrt(TAU),
+    TAUT * sqrt(TAU));
+  text('A', TAUT * sqrt(TAU) * log(TAU) + TAU * TAU * sqrt(TAU),
+    TAUT * sqrt(TAU) + TAUT * ((TAU + TAU + TAU + TAU + TAU) / (TAU + TAU + TAU + TAU)));
+  text('U', TAUT * sqrt(TAU) * log(TAU) + TAU * TAU * sqrt(TAU),
+    TAUT * sqrt(TAU) + TAUT * ((TAU + TAU + TAU + TAU + TAU) / (TAU + TAU + TAU + TAU))
+    + TAUT * ((TAU + TAU + TAU + TAU + TAU) / (TAU + TAU + TAU + TAU)));
 }
 
 // pow(TAU), ceil(TAU), floor(TAU), log(TAU), sqrt(TAU), random(TAU)
