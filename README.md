@@ -228,7 +228,31 @@ Changing between different color modes and adjust the shape of the triangles:
 
 Pure black and white. No gray. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+> Part 1
+
+Added the function of dragging the mouse to adjust the threshold value for basic color image to pure black and white image conversion.
+
+![Genuary14-1-1](/pics/jan14-1-1.jpg)
+
+![Genuary14-1-2](/pics/jan14-1-2.jpg)
+
+![Genuary14-1-3](/pics/jan14-1-3.jpg)
+
+![Genuary14-1-4](/pics/jan14-1-4.jpg)
+
+![Genuary14-1-5](/pics/jan14-1-5.jpg)
+
+![Genuary14-1-6](/pics/jan14-1-6.jpg)
+
+![Genuary14-1-7](/pics/jan14-1-7.jpg)
+
+![Genuary14-1-8](/pics/jan14-1-8.jpg)
+
+![Genuary14-1-9](/pics/jan14-1-9.gif)
+
+Because this idea is too simple and easy, I decided to create another part to this prompt.
+
+> Part 2
 
 ## \#Genuary2025 Day 15
 
