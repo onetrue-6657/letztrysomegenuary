@@ -198,7 +198,31 @@ Also, this is my first to try creating some 3-D geometries using p5.js, and it s
 
 Triangles and nothing else. (credit: [Heeey](https://heeey.art/))
 
-TBD
+A total of 136 triangles are drawn.
+
+There are two color modes to switch between, black & white and random color. Press the SHIFT key to switch between them. In random color mode, press the ENTER key to perform another color randomization. The shape of the triangle can be adjusted according to the direction of movement when the mouse is pressed. The maximum single-direction offset in the y direction is the height of a single triangle. There is no limit to the offset in the x direction.
+
+Random Color Mode:
+
+![Genuary13-1](/pics/jan13-1.jpg)
+
+Black & White Mode:
+
+![Genuary13-2](/pics/jan13-2.jpg)
+
+The triangles after offsets in both directions:
+
+![Genuary13-3](/pics/jan13-3.jpg)
+
+![Genuary13-4](/pics/jan13-4.jpg)
+
+Changing between different random colors:
+
+![Genuary13-5](/pics/jan13-5.gif)
+
+Changing between different color modes and adjust the shape of the triangles:
+
+![Genuary13-6](/pics/jan13-6.gif)
 
 ## \#Genuary2025 Day 14
 
