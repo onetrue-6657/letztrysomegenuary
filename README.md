@@ -254,6 +254,8 @@ Because this idea is too simple and easy, I decided to create another part to th
 
 > Part 2
 
+To be implemented
+
 ## \#Genuary2025 Day 15
 
 Design a rug. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
