@@ -254,13 +254,27 @@ Because this idea is too simple and easy, I decided to create another part to th
 
 > Part 2
 
-To be implemented
+Some random shapes combining using the blend mode DIFFERENCE, all pure black or white. It is guaranteed that there are at least some different shapes in each of the four quadrants, and random amounts of shapes generally.
+
+![Genuary14-2-1](/pics/jan14-2-1.jpg)
+
+![Genuary14-2-2](/pics/jan14-2-2.jpg)
+
+![Genuary14-2-3](/pics/jan14-2-3.jpg)
 
 ## \#Genuary2025 Day 15
 
 Design a rug. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Inspired by Pic-1, the hexagonal color blocks are unevenly distributed, the main color is red, and black, white, and gray blocks are used as auxiliary colors. Different quadrants are randomly filled with different weights. Unfortunately, it is not easy to simulate the texture of a carpet, but it looks a bit like a mouse pad xd.
+
+![Genuary15-1](/pics/jan15-1.jpg)
+
+![Genuary15-2](/pics/jan15-2.jpg)
+
+![Genuary15-3](/pics/jan15-3.jpg)
+
+![Genuary15-4](/pics/jan15-4.jpg)
 
 ## \#Genuary2025 Day 16
 
