@@ -280,7 +280,27 @@ Inspired by Pic-1, the hexagonal color blocks are unevenly distributed, the main
 
 Generative palette. (credit: [Stranger in the Q](https://x.com/stranger_intheq))
 
-TBD
+Randomly generate dozens of highly transparent rectangles. The overlapping effect is very similar to palette. 
+
+The blend mode of p1-5 is HARD_LIGHT, and the blend mode of p6-9 is OVERLAY.
+
+![Genuary-16-1](/pics/jan16-1.jpg)
+
+![Genuary-16-1](/pics/jan16-2.jpg)
+
+![Genuary-16-1](/pics/jan16-3.jpg)
+
+![Genuary-16-1](/pics/jan16-4.jpg)
+
+![Genuary-16-1](/pics/jan16-5.jpg)
+
+![Genuary-16-1](/pics/jan16-6.jpg)
+
+![Genuary-16-1](/pics/jan16-7.jpg)
+
+![Genuary-16-1](/pics/jan16-8.jpg)
+
+![Genuary-16-1](/pics/jan16-9.jpg)
 
 ## \#Genuary2025 Day 17
 
