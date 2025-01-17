@@ -306,7 +306,15 @@ The blend mode of p1-5 is HARD_LIGHT, and the blend mode of p6-9 is OVERLAY.
 
 What happens if pi=4? (credit: [Roni Kaufman](https://ronikaufman.github.io/))
 
-TBD
+Basic idea is that when pi=4, the circle under such a situation will look like a diamond from our Euclidean space. The inspiration for the animation is water ripple, expanding (and disappearing) from inner to outer.
+
+![Genuary-17-1](/pics/jan17-1.jpg)
+
+![Genuary-17-2](/pics/jan17-2.jpg)
+
+![Genuary-17-3](/pics/jan17-3.gif)
+
+Note: I used some AI to assist my calculation of the coordinate of each points of the diamonds.
 
 ## \#Genuary2025 Day 18
 
