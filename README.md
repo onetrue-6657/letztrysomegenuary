@@ -320,7 +320,9 @@ Note: I used some AI to assist my calculation of the coordinate of each points o
 
 What does wind look like? (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Inspired by China CCTV classic program "Big Pinwheel". [Orange, Yellow, Blue, Green] I combined the colors of the pinwheel and classic Netherland windmill bases to describe what wind looks like from an objective perspective.
+
+![Genuary-18](/pics/jan18.gif)
 
 ## \#Genuary2025 Day 19
 
