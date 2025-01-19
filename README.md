@@ -328,7 +328,9 @@ Inspired by China CCTV classic program "Big Pinwheel". [Orange, Yellow, Blue, Gr
 
 Op Art. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+I don't have good ideas today, so everything I do is to add some random parameters into the process of drawing shapes and the colors of their strokes.
+
+![Genuary-19](/pics/jan19.gif)
 
 ## \#Genuary2025 Day 20
 
