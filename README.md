@@ -336,7 +336,11 @@ I don't have good ideas today, so everything I do is to add some random paramete
 
 Generative Architecture. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Inspired by Ohio Stadium at Columbus, OH. The picture shows the architecture of the main entrance gate of the stadium.
+
+![Genuary-20](/pics/jan20.jpg)
+
+Today is also the game day of the final of 2025 College Football Playoffs. Go Buckeyes!
 
 ## \#Genuary2025 Day 21
 
