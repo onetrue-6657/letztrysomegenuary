@@ -346,7 +346,17 @@ Today is also the game day of the final of 2025 College Football Playoffs. Go Bu
 
 Create a collision detection system (no libraries allowed). (credit: [Darien Brito](https://darienbrito.com/))
 
-TBD
+In the basic collision detection system, 20 balls move randomly within the canvas. Once the collision is detected, they will randomly become one of Brutus Buckeye, american football and OSU calibration in the next 0.5 seconds.
+
+OSU Championship Special Edition Genuary II
+
+The CDS refer to https://youtu.be/HK_oG_ev8FQ?si=8vC0-jFOQY_6wLri
+
+The background color is Ohio State Scarlet, and the color of the ball is Ohio State Gray and its two variants, a variant of Ohio State Scarlet, and Ohio State White.
+
+Full video: https://www.instagram.com/p/DFGMx3sRuxN/
+
+![Genuary-21](/pics/jan21.gif)
 
 ## \#Genuary2025 Day 22
 
