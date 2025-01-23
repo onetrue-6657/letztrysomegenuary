@@ -372,7 +372,17 @@ The BlendMode is HARD_LIGHT, which makes this look better than vanilla.
 
 Inspired by brutalism. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/), [Roni Kaufman](https://ronikaufman.github.io/))
 
-TBD
+Brutalism is a building that is essentially minimalist and pragmatic. Today's work is inspired by the TV Screen Building in Serbia, specifically its window structure that resembles a TV screen.
+
+Multiple random weights are used in the code to generate the building's windows and Brutalist balconies, while a noise function is used to generate a wallpaper background that resembles a rough wall.
+
+![Genuary-23-1](/pics/jan23-1.jpg)
+
+![Genuary-23-2](/pics/jan23-2.jpg)
+
+![Genuary-23-3](/pics/jan23-3.jpg)
+
+![Genuary-23-4](/pics/jan23-4.jpg)
 
 ## \#Genuary2025 Day 24
 
