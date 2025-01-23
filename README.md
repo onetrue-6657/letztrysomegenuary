@@ -362,7 +362,11 @@ Full video: https://www.instagram.com/p/DFGMx3sRuxN/
 
 Gradients only. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Based on the [JAN. 16.](#genuary2025-day-16) Generative palette, a dual-dimensional gradient is added, that is, a static internal gradient and an overall dynamic gradient over time.
+
+The BlendMode is HARD_LIGHT, which makes this look better than vanilla.
+
+![Genuary-22](/pics/jan22.gif)
 
 ## \#Genuary2025 Day 23
 
