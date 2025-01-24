@@ -388,7 +388,13 @@ Multiple random weights are used in the code to generate the building's windows 
 
 Geometric art - pick either a circle, rectangle, or triangle and use only that geometric shape. (credit: [Bruce Holmer](https://www.instagram.com/bruceholmer/))
 
-TBD
+Inspired by the well-known music game osu!, there are three basic logics: linear, circular, and arc, which generate a series of circles of the same color and show a compact and fast rhythm. Each circle consists of an outer large circle and an inner fixed small circle. The large circle gradually shrinks to imitate the game logic in osu!.
+
+Because the logic and algorithm are difficult, the code given by AI was partially referenced during the creation process, but the overall idea is original.
+
+![Genuary-24](/pics/jan24.gif)
+
+If you want to watch a smoother demo, visit my [instagram post](https://www.instagram.com/p/DFOfp9JISsT/) for a better experience!
 
 ## \#Genuary2025 Day 25
 
