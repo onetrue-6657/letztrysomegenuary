@@ -396,11 +396,21 @@ Because the logic and algorithm are difficult, the code given by AI was partiall
 
 If you want to watch a smoother demo, visit my [instagram post](https://www.instagram.com/p/DFOfp9JISsT/) for a better experience!
 
+~~OSU Championship Special Edition Genuary III~~
+
 ## \#Genuary2025 Day 25
 
 One line that may or may not intersect itself (credit: [Bruce Holmer](https://www.instagram.com/bruceholmer/), [Chris Barber (code_rgb)](https://genuary.art/prompts#), [Heeey](https://heeey.art/), [Monokai](https://monokai.com/))
 
-TBD
+Inspired by music game Dancing Line. Press SHIFT to start the timer. A thick line moves on the canvas, and every time ENTER is pressed, the line turns to another direction. The camera perspective goes with the line. At the end, press BACKSPACE to stop the animation. A complete graph of the single line will be shown on the screen.
+
+![Genuary-25-1](/pics/jan25-1.jpg)
+
+![Genuary-25-2](/pics/jan25-2.jpg)
+
+OSU Championship Special Edition Genuary IV
+
+Complete demo on [Instagram](https://www.instagram.com/p/DFRH0o8oE2I/)! Uses Carmen Ohio as the background music. ~~Please ignore my music game skill LMAO~~
 
 ## \#Genuary2025 Day 26
 
