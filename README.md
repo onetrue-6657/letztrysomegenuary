@@ -416,7 +416,9 @@ Complete demo on [Instagram](https://www.instagram.com/p/DFRH0o8oE2I/)! Uses Car
 
 Symmetry. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Created an animation showing the growth of a binary tree, a frequently used data structure in computer science. When LEFT_ARROW or RIGHT_ARROW is pressed, the tree will add or subtract one level of nodes.
+
+![Genuary-26](/pics/jan26.gif)
 
 ## \#Genuary2025 Day 27
 
