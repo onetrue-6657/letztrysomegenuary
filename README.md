@@ -424,7 +424,9 @@ Created an animation showing the growth of a binary tree, a frequently used data
 
 Make something interesting with no randomness or noise or trig. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Those who understand will understand.
+
+![Genuary-27](/pics/jan27.jpg)
 
 ## \#Genuary2025 Day 28
 
