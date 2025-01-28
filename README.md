@@ -79,7 +79,20 @@ Compared with the first part, all rectangles are constant in width and can basic
 
 Exactly 42 lines of code. (credit: [Roni Kaufman](https://ronikaufman.github.io/))
 
-TBD
+The inspiration comes from a reddit post I saw yesterday, which used octagons to gradually expand and overlap. I changed this idea to the expansion and overlap of circles.
+
+Original post address:
+<https://www.reddit.com/r/generative/comments/1ibtac6/expanding_octagons_no_randomness_or_noise_or_trig/?share_id=e6g6lxFiG1_60Ef1iy_oW&utm_name=iossmf>
+
+![Genuary-3-1](/pics/jan03-1.gif)
+
+![Genuary-3-3](/pics/jan03-3.jpg)
+
+![Genuary-3-4](/pics/jan03-4.jpg)
+
+Code (Exactly 42 lines of code):
+
+![Genuary-3-2](/pics/jan03-2.jpg)
 
 ## \#Genuary2025 Day 4
 
