@@ -53,7 +53,11 @@ After finishing your code or you want to preview the canvas, install VSCode Live
 
 Vertical or horizontal lines only. (credit: [Stranger in the Q](https://x.com/stranger_intheq))
 
-TBD
+The horizontal and vertical lines are randomly arranged according to a certain algorithm. You can press the left and right arrow keys to adjust the frame rate, that is, change the rate. The effect when the frame rate is high is similar to fft.
+
+People with photosensitive epilepsy should be careful!
+
+![Genuary-1](/pics/jan01.gif)
 
 ## \#Genuary2025 Day 2
 
