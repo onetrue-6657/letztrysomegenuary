@@ -432,7 +432,13 @@ Those who understand will understand.
 
 Infinite Scroll. (credit: [Sophia (fractal kitty)](https://www.fractalkitty.com/))
 
-TBD
+Simulates the process of fireworks rising and exploding, and adds the element of infinite scroll, that is, the fireworks will continue to rise (like sky rockets), and sound effects will be played at the same time.
+
+2025 Chinese/Lunar New Year Special Edition
+
+![Genuary-28](/pics/jan28.gif)
+
+打ち上げ花火、下から見るか？横から見るか？
 
 ## \#Genuary2025 Day 29
 
