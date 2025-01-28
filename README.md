@@ -63,7 +63,17 @@ People with photosensitive epilepsy should be careful!
 
 Layers upon layers upon layers. (credit: [Monokai](https://monokai.com/))
 
-TBD
+Inspired by Tetris, the p5play physics engine plug-in was introduced to create the effect of rectangles with different parameters falling and stacking into different layers for part one.
+
+![Genuary-2-1](/pics/jan02-1.jpg)
+
+![Genuary-2-3](/pics/jan02-3.gif)
+
+Compared with the first part, all rectangles are constant in width and can basically fill the container, creating a layers upon layers effect.
+
+![Genuary-2-2](/pics/jan02-2.jpg)
+
+![Genuary-2-4](/pics/jan02-4.gif)
 
 ## \#Genuary2025 Day 3
 
