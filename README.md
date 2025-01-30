@@ -492,7 +492,9 @@ Inspired by Tetris
 Abstract map. \
 Not to be confused with [AbstractMap](https://docs.oracle.com/javase/8/docs/api/java/util/AbstractMap.html). (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+The map of Suzhou Rail Transit System.
+
+![Genuary-30](/pics/jan30.jpg)
 
 ## \#Genuary2025 Day 31
 
