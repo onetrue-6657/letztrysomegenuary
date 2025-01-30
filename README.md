@@ -479,7 +479,7 @@ A 40*40 grid canvas can be used to create pixel art. There are 16 basic colors t
 
 ![Genuary29-3](/pics/jan29-3.jpg)
 
-Inspired by [Jan 3 Layers Upon Layers Upon Layers](#genuary2025-day-3)
+Inspired by [Jan 2 Layers Upon Layers Upon Layers](#genuary2025-day-2)
 
 ![Genuary29-4](/pics/jan29-4.jpg)
 
