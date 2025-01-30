@@ -471,7 +471,21 @@ Simulates the process of fireworks rising and exploding, and adds the element of
 
 Grid-based graphic design. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+A 40*40 grid canvas can be used to create pixel art. There are 16 basic colors to choose from, and the functions of clearing the canvas and erasing colors are also provided.
+
+![Genuary29-1](/pics/jan29-1.jpg)
+
+![Genuary29-2](/pics/jan29-2.jpg)
+
+![Genuary29-3](/pics/jan29-3.jpg)
+
+Inspired by [Jan 3 Layers Upon Layers Upon Layers](#genuary2025-day-3)
+
+![Genuary29-4](/pics/jan29-4.jpg)
+
+Inspired by Tetris
+
+![Genuary29-5](/pics/jan29-5.jpg)
 
 ## \#Genuary2025 Day 30
 
