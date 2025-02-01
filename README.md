@@ -7,6 +7,7 @@ I started from Jan 4 (thanks to @n3xta for this idea of doing Genuary), and one 
 Special Notes: This is a collection of the works by a completely newbie in generative art. Before doing these projects, I had zero ideas or basis of working with any generative art (if Python MatplotLib can count). Therefore, any advice is welcome and please feel free to contact me!
 
 - [How to Use p5.js and these codes?](#how-to-use-p5js-and-these-codes)
+- [Personal Top 10](#personal-top-10)
 - [JAN. 1.](#genuary2025-day-1)
 - [JAN. 2.](#genuary2025-day-2)
 - [JAN. 3.](#genuary2025-day-3)
@@ -48,6 +49,28 @@ For p5.js, you can visit its [website][p5] to set up your environment. You can u
 - Visual Studio Code: [p5.js plugin][p5-plugin]. After installing the plugin to your workspace, search (Ctrl + Shift + P) "Create p5.js project" to generate a p5.js template to your folder.
 
 After finishing your code or you want to preview the canvas, install VSCode Live Server plugin, and right click the index.html of each project. You can open the index.html with live server to preview the work.
+
+## Personal Top 10
+
+Top 10 [JAN. 1.](#genuary2025-day-1) Dancing Line
+
+TOP 9 [JAN. 17.](#genuary2025-day-17) osu! when pi = 4
+
+TOP 8 [JAN. 30.](#genuary2025-day-30) Suzhou Rail Transit System Map
+
+TOP 7 [JAN. 15.](#genuary2025-day-15) Rug
+
+TOP 6 [JAN. 16.](#genuary2025-day-16) Palette
+
+TOP 5 [JAN. 24.](#genuary2025-day-24) Geometric Art osu!
+
+TOP 4 [JAN. 2.](#genuary2025-day-2) Layers Upon Layers Upon Layers
+
+TOP 3 [JAN. 29.](#genuary2025-day-29) Grid Canvas
+
+TOP 2 [JAN. 22.](#genuary2025-day-22) Gradient Palette
+
+TOP 1 [JAN. 11.](#genuary2025-day-11) Impossible Music Player
 
 ## \#Genuary2025 Day 1
 
@@ -501,7 +524,25 @@ The map of Suzhou Rail Transit System.
 Pixel sorting. \
 You can sort pixels by weight, size, age, etc. (credit: [Melissa Wiederrecht](https://melissawiederrecht.com/))
 
-TBD
+Basic vertical pixel sorting based on hue.
+
+![Genuary-31-1](/pics/jan31-1.jpg)
+
+![Genuary-31-2](/pics/jan31-2.jpg)
+
+![Genuary-31-3](/pics/jan31-3.jpg)
+
+![Genuary-31-4](/pics/jan31-4.jpg)
+
+![Genuary-31-5](/pics/jan31-5.jpg)
+
+![Genuary-31-6](/pics/jan31-6.jpg)
+
+![Genuary-31-7](/pics/jan31-7.jpg)
+
+![Genuary-31-8](/pics/jan31-8.jpg)
+
+![Genuary-31-9](/pics/jan31-9.jpg)
 
 ## Acknowledgments
 
